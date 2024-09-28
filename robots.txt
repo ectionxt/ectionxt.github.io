@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ectionxt.github.io/sitemap.ectionxt.gz
+Sitemap: https://ectionxt.github.io/app/sitemap.ectionxt.gz
+Sitemap: https://ectionxt.github.io/assets/sitemap.ectionxt.gz
+Sitemap: https://ectionxt.github.io/css/sitemap.ectionxt.gz
+Sitemap: https://ectionxt.github.io/data/sitemap.ectionxt.gz
+Sitemap: https://ectionxt.github.io/includes/sitemap.ectionxt.gz
+Sitemap: https://ectionxt.github.io/item/sitemap.ectionxt.gz
+Sitemap: https://ectionxt.github.io/src/sitemap.ectionxt.gz
